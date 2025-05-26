@@ -1,0 +1,4 @@
+# High data volume
+data/raw/test/
+data/raw/train/
+data/raw/valid/
